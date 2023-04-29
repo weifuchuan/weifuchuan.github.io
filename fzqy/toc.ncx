@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="b52b5d6e-ae1c-4eef-a423-b8382dd60c29"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="calibre (5.34.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>富种起源：人类是怎么变富的（一本出自经济学者之手的《人类简史》。挑战权威理论，寻找颠覆性答案）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>书名页</text>
+      </navLabel>
+      <content src="text/part0000.html#0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="text/index.html#1T140-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>专家推荐</text>
+      </navLabel>
+      <content src="text/part0005.html#4OIQ0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="text/part0006.html#5N3C0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text>第一部分 静水</text>
+      </navLabel>
+      <content src="text/part0007.html#6LJU0-afed5be9b742476d873be7cf87739da7"/>
+      <navPoint id="num_7" playOrder="6" class="chapter">
+        <navLabel>
+          <text>第1章 万古长悲</text>
+        </navLabel>
+        <content src="text/part0008.html#7K4G0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_8" playOrder="7" class="chapter">
+          <navLabel>
+            <text>现实世界里有心理史学吗</text>
+          </navLabel>
+          <content src="text/part0008.html#8IL20-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_9" playOrder="8" class="chapter">
+          <navLabel>
+            <text>马尔萨斯模型</text>
+          </navLabel>
+          <content src="text/part0008.html#9H5K0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_10" playOrder="9" class="chapter">
+          <navLabel>
+            <text>马尔萨斯效应孱弱之谜</text>
+          </navLabel>
+          <content src="text/part0008.html#AFM60-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_11" playOrder="10" class="chapter">
+          <navLabel>
+            <text>马尔萨斯陷阱的证据</text>
+          </navLabel>
+          <content src="text/part0008.html#BE6O0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_12" playOrder="11" class="chapter">
+        <navLabel>
+          <text>第2章 二元模型</text>
+        </navLabel>
+        <content src="text/part0013.html#CCNA0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_13" playOrder="12" class="chapter">
+          <navLabel>
+            <text>技术冲击的经济学分析</text>
+          </navLabel>
+          <content src="text/part0013.html#DB7S0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_14" playOrder="13" class="chapter">
+          <navLabel>
+            <text>文化变迁的经济学分析</text>
+          </navLabel>
+          <content src="text/part0013.html#E9OE0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_15" playOrder="14" class="chapter">
+          <navLabel>
+            <text>瘟疫与战乱的经济学分析</text>
+          </navLabel>
+          <content src="text/part0013.html#F8900-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_16" playOrder="15" class="chapter">
+          <navLabel>
+            <text>从一维到三维</text>
+          </navLabel>
+          <content src="text/part0013.html#G6PI0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_17" playOrder="16" class="chapter">
+          <navLabel>
+            <text>马尔萨斯对效用品的认识</text>
+          </navLabel>
+          <content src="text/part0013.html#H5A40-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_18" playOrder="17" class="chapter">
+          <navLabel>
+            <text>平衡增长之谜</text>
+          </navLabel>
+          <content src="text/part0013.html#I3QM0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_19" playOrder="18" class="chapter">
+        <navLabel>
+          <text>第3章 幸福本色</text>
+        </navLabel>
+        <content src="text/part0020.html#J2B80-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_20" playOrder="19" class="chapter">
+          <navLabel>
+            <text>“囚徒困境”：效用品的根源所在</text>
+          </navLabel>
+          <content src="text/part0020.html#K0RQ0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_21" playOrder="20" class="chapter">
+          <navLabel>
+            <text>性选择里的信号</text>
+          </navLabel>
+          <content src="text/part0020.html#KVCC0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_22" playOrder="21" class="chapter">
+          <navLabel>
+            <text>“性感儿子”理论</text>
+          </navLabel>
+          <content src="text/part0020.html#LTSU0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_23" playOrder="22" class="chapter">
+          <navLabel>
+            <text>经济福利的生物学基础</text>
+          </navLabel>
+          <content src="text/part0020.html#MSDG0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_24" playOrder="23" class="chapter">
+          <navLabel>
+            <text>效用品部门占经济多大比例</text>
+          </navLabel>
+          <content src="text/part0020.html#NQU20-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_25" playOrder="24" class="chapter">
+          <navLabel>
+            <text>破解马尔萨斯效应孱弱之谜</text>
+          </navLabel>
+          <content src="text/part0020.html#OPEK0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_26" playOrder="25" class="chapter">
+        <navLabel>
+          <text>第4章 一叶障目</text>
+        </navLabel>
+        <content src="text/part0027.html#PNV60-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_27" playOrder="26" class="chapter">
+          <navLabel>
+            <text>有色眼镜下的数据偏误</text>
+          </navLabel>
+          <content src="text/part0027.html#QMFO0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_28" playOrder="27" class="chapter">
+          <navLabel>
+            <text>为什么身高证据不可靠</text>
+          </navLabel>
+          <content src="text/part0027.html#RL0A0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_29" playOrder="28" class="chapter">
+          <navLabel>
+            <text>经济数据中的质量停滞假象</text>
+          </navLabel>
+          <content src="text/part0027.html#SJGS0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_30" playOrder="29" class="chapter">
+        <navLabel>
+          <text>第5章 西西弗斯</text>
+        </navLabel>
+        <content src="text/part0031.html#TI1E0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_31" playOrder="30" class="chapter">
+          <navLabel>
+            <text>长期贫困陷阱存在吗</text>
+          </navLabel>
+          <content src="text/part0031.html#UGI00-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_32" playOrder="31" class="chapter">
+          <navLabel>
+            <text>文明的昙花一现</text>
+          </navLabel>
+          <content src="text/part0031.html#VF2I0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_33" playOrder="32" class="chapter">
+      <navLabel>
+        <text>第二部分 流深</text>
+      </navLabel>
+      <content src="text/part0034.html#10DJ40-afed5be9b742476d873be7cf87739da7"/>
+      <navPoint id="num_34" playOrder="33" class="chapter">
+        <navLabel>
+          <text>第6章 人口漏斗</text>
+        </navLabel>
+        <content src="text/part0035.html#11C3M0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_35" playOrder="34" class="chapter">
+          <navLabel>
+            <text>解释平衡增长</text>
+          </navLabel>
+          <content src="text/part0035.html#12AK80-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_36" playOrder="35" class="chapter">
+          <navLabel>
+            <text>贸易零成本，还移民做什么</text>
+          </navLabel>
+          <content src="text/part0035.html#1394Q0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_37" playOrder="36" class="chapter">
+          <navLabel>
+            <text>产出结构差异造成的定向移民</text>
+          </navLabel>
+          <content src="text/part0035.html#147LC0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_38" playOrder="37" class="chapter">
+          <navLabel>
+            <text>社会文化差异造成的定向移民</text>
+          </navLabel>
+          <content src="text/part0035.html#1565U0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_39" playOrder="38" class="chapter">
+          <navLabel>
+            <text>定向移民的证据</text>
+          </navLabel>
+          <content src="text/part0035.html#164MG0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_40" playOrder="39" class="chapter">
+        <navLabel>
+          <text>第7章 木秀于林</text>
+        </navLabel>
+        <content src="text/part0041.html#173720-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_41" playOrder="40" class="chapter">
+          <navLabel>
+            <text>族群竞择</text>
+          </navLabel>
+          <content src="text/part0041.html#181NK0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_42" playOrder="41" class="chapter">
+          <navLabel>
+            <text>族群竞择是伪科学吗</text>
+          </navLabel>
+          <content src="text/part0041.html#190860-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_43" playOrder="42" class="chapter">
+          <navLabel>
+            <text>本末之争</text>
+          </navLabel>
+          <content src="text/part0041.html#19UOO0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_44" playOrder="43" class="chapter">
+          <navLabel>
+            <text>黜奢崇俭的文化竞择</text>
+          </navLabel>
+          <content src="text/part0041.html#1AT9A0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_45" playOrder="44" class="chapter">
+          <navLabel>
+            <text>辉煌的古代文明为什么没能持续</text>
+          </navLabel>
+          <content src="text/part0041.html#1BRPS0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_46" playOrder="45" class="chapter">
+        <navLabel>
+          <text>第8章 竞择伟力</text>
+        </navLabel>
+        <content src="text/part0047.html#1CQAE0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_47" playOrder="46" class="chapter">
+          <navLabel>
+            <text>族群竞择的计算机模拟</text>
+          </navLabel>
+          <content src="text/part0047.html#1DOR00-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_48" playOrder="47" class="chapter">
+          <navLabel>
+            <text>介形虫生殖器的马尔萨斯陷阱</text>
+          </navLabel>
+          <content src="text/part0047.html#1ENBI0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_49" playOrder="48" class="chapter">
+          <navLabel>
+            <text>马尔萨斯机制——被高估的平凡解</text>
+          </navLabel>
+          <content src="text/part0047.html#1FLS40-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_50" playOrder="49" class="chapter">
+        <navLabel>
+          <text>第9章 辨伪之道</text>
+        </navLabel>
+        <content src="text/part0051.html#1GKCM0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_51" playOrder="50" class="chapter">
+          <navLabel>
+            <text>假设无关论的迷思</text>
+          </navLabel>
+          <content src="text/part0051.html#1HIT80-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_52" playOrder="51" class="chapter">
+          <navLabel>
+            <text>敏感假设务必符合事实</text>
+          </navLabel>
+          <content src="text/part0051.html#1IHDQ0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_53" playOrder="52" class="chapter">
+          <navLabel>
+            <text>族群竞择理论是一个套套逻辑</text>
+          </navLabel>
+          <content src="text/part0051.html#1JFUC0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_54" playOrder="53" class="chapter">
+      <navLabel>
+        <text>第三部分 鱼跃</text>
+      </navLabel>
+      <content src="text/part0055.html#1KEEU0-afed5be9b742476d873be7cf87739da7"/>
+      <navPoint id="num_55" playOrder="54" class="chapter">
+        <navLabel>
+          <text>第10章 公论之弊</text>
+        </navLabel>
+        <content src="text/part0056.html#1LCVG0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_56" playOrder="55" class="chapter">
+          <navLabel>
+            <text>大一统增长理论</text>
+          </navLabel>
+          <content src="text/part0056.html#1MBG20-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_57" playOrder="56" class="chapter">
+          <navLabel>
+            <text>琼斯（2001）</text>
+          </navLabel>
+          <content src="text/part0056.html#1NA0K0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_58" playOrder="57" class="chapter">
+          <navLabel>
+            <text>盖勒和韦尔（2000）</text>
+          </navLabel>
+          <content src="text/part0056.html#1O8H60-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_59" playOrder="58" class="chapter">
+          <navLabel>
+            <text>盖勒和莫阿夫（2002）</text>
+          </navLabel>
+          <content src="text/part0056.html#1P71O0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_60" playOrder="59" class="chapter">
+          <navLabel>
+            <text>汉森和普雷斯科特（2002）</text>
+          </navLabel>
+          <content src="text/part0056.html#1Q5IA0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_61" playOrder="60" class="chapter">
+        <navLabel>
+          <text>第11章 星火燎原</text>
+        </navLabel>
+        <content src="text/part0062.html#1R42S0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_62" playOrder="61" class="chapter">
+          <navLabel>
+            <text>最高最大最厚的云</text>
+          </navLabel>
+          <content src="text/part0062.html#1S2JE0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_63" playOrder="62" class="chapter">
+          <navLabel>
+            <text>效用品大爆炸</text>
+          </navLabel>
+          <content src="text/part0062.html#1T1400-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_64" playOrder="63" class="chapter">
+          <navLabel>
+            <text>多层竞择</text>
+          </navLabel>
+          <content src="text/part0062.html#1TVKI0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_65" playOrder="64" class="chapter">
+          <navLabel>
+            <text>休眠火山悖论</text>
+          </navLabel>
+          <content src="text/part0062.html#1UU540-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_66" playOrder="65" class="chapter">
+          <navLabel>
+            <text>制度竞择模型</text>
+          </navLabel>
+          <content src="text/part0062.html#1VSLM0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_67" playOrder="66" class="chapter">
+          <navLabel>
+            <text>历史的时钟</text>
+          </navLabel>
+          <content src="text/part0062.html#20R680-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_68" playOrder="67" class="chapter">
+          <navLabel>
+            <text>相对优势与绝对优势</text>
+          </navLabel>
+          <content src="text/part0062.html#21PMQ0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_69" playOrder="68" class="chapter">
+        <navLabel>
+          <text>第12章 时来力转</text>
+        </navLabel>
+        <content src="text/part0070.html#22O7C0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_70" playOrder="69" class="chapter">
+          <navLabel>
+            <text>生存与文明：从对立到统一</text>
+          </navLabel>
+          <content src="text/part0070.html#23MNU0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_71" playOrder="70" class="chapter">
+          <navLabel>
+            <text>刘慈欣陷阱</text>
+          </navLabel>
+          <content src="text/part0070.html#24L8G0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_72" playOrder="71" class="chapter">
+          <navLabel>
+            <text>制竞模型的稳健性</text>
+          </navLabel>
+          <content src="text/part0070.html#25JP20-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_73" playOrder="72" class="chapter">
+        <navLabel>
+          <text>第13章 禹式治理</text>
+        </navLabel>
+        <content src="text/part0074.html#26I9K0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_74" playOrder="73" class="chapter">
+          <navLabel>
+            <text>堵与疏的权衡</text>
+          </navLabel>
+          <content src="text/part0074.html#27GQ60-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_75" playOrder="74" class="chapter">
+          <navLabel>
+            <text>转型之难</text>
+          </navLabel>
+          <content src="text/part0074.html#28FAO0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_76" playOrder="75" class="chapter">
+          <navLabel>
+            <text>商业征税能力</text>
+          </navLabel>
+          <content src="text/part0074.html#29DRA0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_77" playOrder="76" class="chapter">
+          <navLabel>
+            <text>战争形势的影响</text>
+          </navLabel>
+          <content src="text/part0074.html#2ACBS0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_78" playOrder="77" class="chapter">
+        <navLabel>
+          <text>第14章 制竞天择</text>
+        </navLabel>
+        <content src="text/part0079.html#2BASE0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_79" playOrder="78" class="chapter">
+          <navLabel>
+            <text>演化进程中的韬晦与爆发</text>
+          </navLabel>
+          <content src="text/part0079.html#2C9D00-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_80" playOrder="79" class="chapter">
+          <navLabel>
+            <text>社会演化与生物演化的异同</text>
+          </navLabel>
+          <content src="text/part0079.html#2D7TI0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_81" playOrder="80" class="chapter">
+        <navLabel>
+          <text>第15章 黑暗再临</text>
+        </navLabel>
+        <content src="text/part0082.html#2E6E40-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_82" playOrder="81" class="chapter">
+          <navLabel>
+            <text>人类文明会重陷黑暗时代吗</text>
+          </navLabel>
+          <content src="text/part0082.html#2F4UM0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_83" playOrder="82" class="chapter">
+          <navLabel>
+            <text>市场经济的坚韧与脆弱</text>
+          </navLabel>
+          <content src="text/part0082.html#2G3F80-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_84" playOrder="83" class="chapter">
+        <navLabel>
+          <text>尾声</text>
+        </navLabel>
+        <content src="text/part0085.html#2H1VQ0-afed5be9b742476d873be7cf87739da7"/>
+        <navPoint id="num_85" playOrder="1" class="chapter">
+          <navLabel>
+            <text>关于其他独立发现者的说明</text>
+          </navLabel>
+          <content src="text/part0085.html#ebookNote2"/>
+        </navPoint>
+        <navPoint id="num_86" playOrder="85" class="chapter">
+          <navLabel>
+            <text>理论的局限与遗憾</text>
+          </navLabel>
+          <content src="text/part0085.html#2I0GC0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_87" playOrder="86" class="chapter">
+          <navLabel>
+            <text>茫茫九派，殊途同归</text>
+          </navLabel>
+          <content src="text/part0085.html#2IV0U0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_88" playOrder="87" class="chapter">
+          <navLabel>
+            <text>历史傅里叶级数的低阶规律</text>
+          </navLabel>
+          <content src="text/part0085.html#2JTHG0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_89" playOrder="88" class="chapter">
+          <navLabel>
+            <text>新的历史观</text>
+          </navLabel>
+          <content src="text/part0085.html#2KS220-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+        <navPoint id="num_90" playOrder="89" class="chapter">
+          <navLabel>
+            <text>社会达尔文主义的事实错误</text>
+          </navLabel>
+          <content src="text/part0085.html#2LQIK0-afed5be9b742476d873be7cf87739da7"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_91" playOrder="90" class="chapter">
+      <navLabel>
+        <text>附录</text>
+      </navLabel>
+      <content src="text/part0091.html#2MP360-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_92" playOrder="91" class="chapter">
+      <navLabel>
+        <text>参考文献</text>
+      </navLabel>
+      <content src="text/part0092.html#2NNJO0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_93" playOrder="92" class="chapter">
+      <navLabel>
+        <text>后记 回首向来萧瑟处</text>
+      </navLabel>
+      <content src="text/part0093.html#2OM4A0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+    <navPoint id="num_94" playOrder="93" class="chapter">
+      <navLabel>
+        <text>致谢</text>
+      </navLabel>
+      <content src="text/part0094.html#2PKKS0-afed5be9b742476d873be7cf87739da7"/>
+    </navPoint>
+  </navMap>
+</ncx>
